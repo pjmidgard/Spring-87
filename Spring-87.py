@@ -337,7 +337,7 @@ class compression:
                               
                                     
                                     lenfS=len(sda17)
-                                    print(lenfS)
+                                    #print(lenfS)
 
                                     if ccc==2:
                                                     sda3=sda3[1:]
